@@ -1,0 +1,13 @@
+{
+  "shell_port": 54097,
+  "iopub_port": 37803,
+  "stdin_port": 37399,
+  "control_port": 47351,
+  "hb_port": 38895,
+  "ip": "127.0.0.1",
+  "key": "968b15c2-792f841c483f47690c2d6514",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/sagemaker-user/lightgbm_model_deploy_test/Untitled.ipynb"
+}

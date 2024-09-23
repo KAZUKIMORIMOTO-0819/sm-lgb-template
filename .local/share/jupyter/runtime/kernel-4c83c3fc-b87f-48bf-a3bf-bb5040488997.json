@@ -1,0 +1,13 @@
+{
+  "shell_port": 54311,
+  "iopub_port": 40655,
+  "stdin_port": 37839,
+  "control_port": 42379,
+  "hb_port": 43219,
+  "ip": "127.0.0.1",
+  "key": "ed0b7440-59b1986921e1083a271a37e0",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/sagemaker-user/aws-ml-jp/1_sklearn.ipynb"
+}
